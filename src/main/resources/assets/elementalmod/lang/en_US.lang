@@ -1,0 +1,20 @@
+//jtrent238's Elemental Mod Lang File
+//en_US
+
+//Items
+item.itemFireOrb.name=Fire Orb
+
+//Blocks
+//Entitys
+//Mod Devs And Helpers
+//Container
+//Generators
+//Achievements
+//Enchantments
+//Potions
+//Creative Tabs
+itemGroup.ElementalMod=jtrent238's Elemental Mod
+
+//NULL ERRORS (tile / item)
+tile.null.name=§4Block Name Error [ElementalMod]-- Please Report To jtrent238
+item.null.name=§4Item Name Error [ElementalMod]-- Please Report To jtrent238
