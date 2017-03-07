@@ -3,6 +3,7 @@
 
 //Items
 item.itemFireOrb.name=Fire Orb
+item.itemIceOrb.name=Ice Orb
 
 //Blocks
 //Entitys
@@ -15,6 +16,3 @@ item.itemFireOrb.name=Fire Orb
 //Creative Tabs
 itemGroup.ElementalMod=jtrent238's Elemental Mod
 
-//NULL ERRORS (tile / item)
-tile.null.name=§4Block Name Error [ElementalMod]-- Please Report To jtrent238
-item.null.name=§4Item Name Error [ElementalMod]-- Please Report To jtrent238
